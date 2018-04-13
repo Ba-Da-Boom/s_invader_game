@@ -50,7 +50,7 @@ class Player(pygame.sprite.Sprite):
         if keys[pygame.K_LEFT]:
             self.speedx =-8
 
-        self.rect.x += self.speedx    # pour réactualiser la position du rectangle après l'appui des touches  qui lui confère une vitesse à droite et gauche  !!!!!!!!!
+        self.rect.x += self.speedx    # pour réactualiser la position du rectangle après l'appui des touches  qui lui confère une vitesse à droite et gauche  ra!!!!!!!!!
     
 
 
