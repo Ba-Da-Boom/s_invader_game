@@ -6,5 +6,6 @@ My version of space invader create with pygame
 3. Have fun
 
 
-#TODO
-[] menu display
+# TODO
+
+[ ] menu display
