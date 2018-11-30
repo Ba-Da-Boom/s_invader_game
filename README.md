@@ -8,4 +8,4 @@ My version of space invader create with pygame
 
 # TODO
 
-[ ] menu display
+- [ ] menu display
